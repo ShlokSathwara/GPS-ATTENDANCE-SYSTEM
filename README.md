@@ -90,6 +90,7 @@ src/
 ## Authors
 
 Emails of the authors:-
+
 Shlok Sathwara- shloksathwara2@gmail.com
 
 Ayush Dungrakoti - ayushdk2005@gmail.com
@@ -97,4 +98,5 @@ Ayush Dungrakoti - ayushdk2005@gmail.com
 Abhimanyu Guleria - abhimanyuguleriaixf@gmail.com
 
 Kunjal Fadtare- fadtarekunjal@gmail.com
+
 
